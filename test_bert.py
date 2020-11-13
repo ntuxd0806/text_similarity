@@ -197,7 +197,7 @@ model.summary()
 print(type(train_data))
 print(type(valid_data))
 print(train_data[0])
-time.sleep(4656)
+time.sleep(1000)
 """
 ## Train the entire model end-to-end
 """
